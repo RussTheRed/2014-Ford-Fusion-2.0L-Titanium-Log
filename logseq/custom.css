@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'Iosevka-Regular';
+  src: url('../assets/Iosevka-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+:root {
+  --ls-font-family: 'Iosevka-Regular', monospace;
+}
